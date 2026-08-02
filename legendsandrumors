@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Rumors and legends surrounding The Nat Funk All Stars — none of it confirmed, all of it repeated.">
+    <title>Rumors & Legends — The Nat Funk All Stars</title>
+    <style>
+        body {
+            background-color: #000000;
+            color: #ffffff;
+            font-family: sans-serif;
+            padding: 50px 20px;
+            text-align: center;
+        }
+        .content {
+            max-width: 650px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #C99738;
+            font-size: 2.5rem;
+        }
+        h2 {
+            color: #C99738;
+            font-size: 1.4rem;
+            margin-top: 3rem;
+            text-align: left;
+        }
+        p {
+            font-size: 1.1rem;
+            line-height: 1.7;
+            color: #cccccc;
+            text-align: left;
+        }
+        .subtitle {
+            font-size: 1rem;
+            color: #888888;
+            font-style: italic;
+            text-align: center;
+        }
+        .back-link {
+            display: inline-block;
+            margin-top: 3rem;
+            color: #C99738;
+            text-decoration: none;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        hr {
+            border: none;
+            border-top: 1px solid #333333;
+            margin: 3rem 0 0 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Rumors & Legends</h1>
+        <p class="subtitle">Nothing here is confirmed. Nothing here is denied.</p>
+
+        <hr>
+        <h2>The Night at the Ridgemont</h2>
+        <p>Three songs into the Ridgemont show, Nat Funk started missing cues. Nothing dramatic — a flat note here, a late entrance there — but by the encore he was gray-faced and gripping the mic stand like it owed him money. He made it through "Groove Reactor," waved to the crowd, and collapsed in the wings before the house lights even came up.</p>
+        <p>The ambulance ran silent, which the crew took as a good sign. It wasn't.</p>
+        <p>At Saint Agatha's, doctors pumped his stomach as a precaution — probably just bad diner shrimp, everyone figured. Then a nurse came out to the waiting room looking like she'd seen something she couldn't unsee, and the rumor took on a life of its own by morning. To this day nobody involved will confirm or deny what was actually found, and Nat Funk himself only ever responds to the question with a slow smile and a change of subject.</p>
+        <p>The Ridgemont show was rescheduled. Nat never played "Groove Reactor" in that city again.</p>
+
+        <hr>
+        <h2>The Cursed Telecaster</h2>
+        <p>The story goes that Nat won a battered '72 Telecaster off a traveling preacher in a card game outside Tulsa. The preacher supposedly warned him it "only plays in D minor after midnight." Nat laughed it off — until the band's own soundboard tapes from three separate tours mysteriously drift into D minor exactly at the stroke of twelve, no matter what key the song started in.</p>
+        <p>The band's longtime engineer swears he's re-tuned that guitar by hand between sets and it slips back within the hour. Nat still plays it every show. He says retiring it "feels like admitting something."</p>
+
+        <hr>
+        <h2>The Lost Yodeling Trophy</h2>
+        <p>Long before the horn section, before the Funk All Stars existed at all, there is allegedly a photograph — never publicly released — of a teenage Nat Funk accepting first place at the 1997 Tri-County Yodeling Invitational. Multiple former bandmates have referenced "the yodeling thing" in interviews, always vaguely, always followed by nervous laughter.</p>
+        <p>Nat has neither confirmed nor denied owning a small engraved trophy shaped like a mountain goat. It is, according to one roadie, "definitely somewhere in his house, probably the bathroom."</p>
+
+        <hr>
+        <h2>The Missing Forty Minutes</h2>
+        <p>Fans who attended the 2019 outdoor amphitheater show in Millbrook still argue about what happened during the band's set break. Nat walked offstage for what was announced as a "quick costume change" and didn't reappear for forty-one minutes. No costume change occurred. Nobody backstage will discuss it on record.</p>
+        <p>What is agreed upon: when Nat returned, his boots were caked in a strange orange dust not found anywhere on the venue grounds, and the band opened the second set with an entirely improvised sixteen-minute jam that has never been played again, before or since. Bootleg recordings of it circulate under the name "Millbrook."</p>
+
+        <hr>
+        <h2>The AI Bandmate</h2>
+        <p>During the notoriously grueling 2022 tour, bassist lineups seemed to shuffle more than usual — three different faces across eleven cities, all credited simply as "on bass." A now-deleted crew Instagram story allegedly showed a laptop propped on an amp with a waveform bouncing in time with the setlist. The theory, repeated at every merch table since: for at least one full week of that tour, "the bass player" wasn't a person at all, and nobody in the front rows ever noticed.</p>
+        <p>Nat's only public comment on the matter, given to a local paper in Ohio: "We don't talk about Ohio."</p>
+
+        <a class="back-link" href="index.html">← Back to The Nat Funk All Stars</a>
+    </div>
+</body>
+</html>
