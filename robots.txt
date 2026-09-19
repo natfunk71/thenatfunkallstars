@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://natfunk71.github.io/thenatfunkallstars/sitemap.xml
